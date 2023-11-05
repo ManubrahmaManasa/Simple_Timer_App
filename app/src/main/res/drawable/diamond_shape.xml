@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EDD360" /> <!-- Change color as per your choice -->
+    <size android:width="100dp" android:height="100dp" />
+    <corners
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp"
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp" />
+    <rotate
+        android:fromDegrees="45"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+</shape>
